@@ -18,7 +18,6 @@ A React Native mobile app for booking appointments with real-time slot managemen
 - **State Management:** Zustand (with persist middleware)
 - **Date Utilities:** date-fns
 - **Storage:** AsyncStorage
-- **Testing:** Jest + ts-jest
 - **Theming:** Custom theme system with dark/light mode
 
 ## Setup
